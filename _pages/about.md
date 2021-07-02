@@ -8,22 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-lab. I specialize in International Relations and Political Methodology. I earned
-my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+I am a Postdoctoral Scholar at Northwestern University. I earned
+my Ph.D in Mechanical Engineering from the University of Maryland, College Park, 
+after which I worked as a Research Scientist in Siemens Techonolgy for one and a half years.
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Political Science Research and Methods*,
-and *The Journal of Open Source Software*. My [research](research) explores the
-causes and consequences of political violence using a broad variety of methods
-such as latent variable models, geospatial analysis, and big data. While I
-primarily focus on civil conflict, I also examine contentious political
-phenomena including terrorism and economic statecraft. I have
-[teaching](teaching) experience in both international relations and quantitative
-methodology.
+My [research](research) explores how machine learning and artificial intellegence can 
+assist human in solving engineering design problems. Particularly, I'm interested in
+developing tools using deep learning, reinforcement learning, active learning, statistical modeling,
+and engineering optimization to improve design synthesis and design space exploration. 
