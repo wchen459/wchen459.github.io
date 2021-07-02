@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="41.41"
-     inkscape:cy="59.266991"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="-2.4326055"
+     inkscape:cy="33.948937"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,7 +63,7 @@
        height="33.261829"
        x="28.679417"
        y="83.018776"
-       ry="2" />
+       ry="0" />
     <g
        id="g850"
        transform="translate(-0.1873785,-0.23487436)">
